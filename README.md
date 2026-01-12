@@ -16,7 +16,7 @@ Financial ratios of companies with a binary target:
 - Hyperparameter tuning with GridSearchCV
 - Confusion Matrix, Classification Report
 
-## Technologies
+
 - Python
 - Pandas, NumPy
 - Scikit-learn
